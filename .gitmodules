@@ -1,0 +1,12 @@
+[submodule "h-shop-be-api-gateaway"]
+	path = h-shop-be-api-gateaway
+	url = https://github.com/duyhung2k4/h-shop-be-api-gateaway.git
+[submodule "h-shop-fe"]
+	path = h-shop-fe
+	url = https://github.com/duyhung2k4/h-shop-fe.git
+[submodule "h-shop-be-account"]
+	path = h-shop-be-account
+	url = https://github.com/duyhung2k4/h-shop-be-account.git
+[submodule "h-shop-be-shop"]
+	path = h-shop-be-shop
+	url = https://github.com/duyhung2k4/h-shop-be-shop.git
