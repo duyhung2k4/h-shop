@@ -10,3 +10,6 @@
 [submodule "h-shop-be-shop"]
 	path = h-shop-be-shop
 	url = https://github.com/duyhung2k4/h-shop-be-shop.git
+[submodule "h-shop-be-product"]
+	path = h-shop-be-product
+	url = https://github.com/duyhung2k4/h-shop-be-product.git
