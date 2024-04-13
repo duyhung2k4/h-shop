@@ -19,3 +19,6 @@
 [submodule "h-shop-be-warehouse"]
 	path = h-shop-be-warehouse
 	url = https://github.com/duyhung2k4/h-shop-be-warehouse.git
+[submodule "h-shop-be-order"]
+	path = h-shop-be-order
+	url = https://github.com/duyhung2k4/h-shop-be-order.git
