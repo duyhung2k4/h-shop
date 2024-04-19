@@ -22,3 +22,6 @@
 [submodule "h-shop-be-order"]
 	path = h-shop-be-order
 	url = https://github.com/duyhung2k4/h-shop-be-order.git
+[submodule "h-shop-be-search"]
+	path = h-shop-be-search
+	url = https://github.com/duyhung2k4/h-shop-be-search.git
