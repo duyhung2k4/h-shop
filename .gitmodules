@@ -25,3 +25,6 @@
 [submodule "h-shop-be-search"]
 	path = h-shop-be-search
 	url = https://github.com/duyhung2k4/h-shop-be-search.git
+[submodule "h-shop-be-consumer-product"]
+	path = h-shop-be-consumer-product
+	url = https://github.com/duyhung2k4/h-shop-be-consumer-product.git
