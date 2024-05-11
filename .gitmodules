@@ -28,3 +28,6 @@
 [submodule "h-shop-be-consumer-product"]
 	path = h-shop-be-consumer-product
 	url = https://github.com/duyhung2k4/h-shop-be-consumer-product.git
+[submodule "h-shop-fe-owner-shop"]
+	path = h-shop-fe-owner-shop
+	url = https://github.com/duyhung2k4/h-shop-fe-owner-shop.git
