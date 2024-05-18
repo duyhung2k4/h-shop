@@ -20,6 +20,15 @@ message CreateShopRes {
     uint64 profileId = 2;
 }
 
+message GetShopByProfileIdReq {
+    uint64 profileId = 1;
+}
+message GetShopByProfileIdRes {
+    uint64 shopId = 1;
+}
+
 service ShopService {
     rpc CheckShopPermission(CheckShopPermissionReq) returns (CheckShopPermissionRes) {}
+    rpc CreateShop(CreateShopReq) returns (CreateShopRes) {}
+    rpc GetShopByProfileId(GetShopByProfileIdReq) returns (GetShopByProfileIdRes) {}
 }
