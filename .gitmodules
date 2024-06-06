@@ -31,3 +31,6 @@
 [submodule "h-shop-fe-owner-shop"]
 	path = h-shop-fe-owner-shop
 	url = https://github.com/duyhung2k4/h-shop-fe-owner-shop.git
+[submodule "h-shop-be-payment"]
+	path = h-shop-be-payment
+	url = https://github.com/duyhung2k4/h-shop-be-payment.git
