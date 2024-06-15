@@ -23,3 +23,6 @@ gen_key:
 		-keyout keys/folder-key/private.pem \
 		-out keys/folder-key/public.pem \
 		-config keys/folder-key/san.cfg
+
+# docker:
+    sudo sysctl -w vm.max_map_count=262144
