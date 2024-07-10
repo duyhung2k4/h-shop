@@ -1,3 +1,6 @@
+# system design
+- https://app.diagrams.net/#G1A-9TFFnGy8NXwxnC-S6B6XwrPHYgjE8h#%7B%22pageId%22%3A%222W9LU7hzEF7Wa8VymPOl%22%7D
+
 # submodule: 
 - git submodule init
 - git submodule update --remote --merge
