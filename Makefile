@@ -15,4 +15,9 @@ run_backends:
 	( cd h-shop-be-consumer-product && go run . -host 192.168.31.101 ) & \
 	( cd h-shop-be-payment && go run . -host 192.168.31.101 ) & \
 	( cd h-shop-fe-owner-shop && yarn dev ) & \
+	( cd h-shop-fe && yarn dev ) & \
 	wait
+
+
+run_docker:
+	docker start es01 && docker start rabbitmq
